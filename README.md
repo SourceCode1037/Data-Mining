@@ -1,6 +1,7 @@
 # Data Mining
 
-Experiments in Big Data Analysis Course.
+> Data Mining is damned complex, but the programmers just simplify it as the art.
+
 
 ### Exp-1 Map-reduce
 
