@@ -7,7 +7,7 @@
 
 ### [Exp-2: PageRank](./Exp-2)
 
-### [Exp-3: A priori And Pcy](./Exp-3)
+### [Exp-3: A priori](./Exp-3)
 
 ### [Exp-4: Kmeans](./Exp-4)
 
